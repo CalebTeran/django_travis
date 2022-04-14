@@ -1,3 +1,5 @@
+# Travis
+[![Build Status](https://app.travis-ci.com/CalebTeran/django_travis.svg?branch=main)](https://app.travis-ci.com/CalebTeran/django_travis)
 # Django-and-Django-REST-Framework
 
 ## Setup
